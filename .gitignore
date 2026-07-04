@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+.DS_Store
+npm-debug.log*
+data/*.json
+!data/content.default.json
+public/uploads/*
+!public/uploads/.gitkeep
